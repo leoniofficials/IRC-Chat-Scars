@@ -1,4 +1,5 @@
 <div align="center"> 
+    
 ![ICR SCARS](screenshots/scars.png)
 
 # Bitch-X Terminal Chat
