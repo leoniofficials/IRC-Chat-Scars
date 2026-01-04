@@ -11,16 +11,20 @@
 
 ## Features
 
-- Terminal-based anonymous chat
-- Multi-client support (50+ users)
-- No message logging or storage
-- Real-time message broadcasting
-- Pink/White hacker-style interface
-- Session data cleared on exit
-- Pure Python (no dependencies)
+- terminal-based anonymous chat
+- multi-client support (50+ users)
+- no message logging or storage
+- real-time message broadcasting
+- session data cleared on exit
+- pure python (no dependencies)
 
 ---
+## Screenshots
 
+
+
+
+---
 ## Quick Start
 
 ### Installation
